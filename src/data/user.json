@@ -1,0 +1,369 @@
+{
+    "page":  [
+        
+            {
+                "id": 0,
+                "title": "Attività da completare",
+                "icon" : "/img/toolbox.svg"
+            },
+            {
+                "id": 1,
+                "title": "Attività completate",
+                "icon" : "/img/clipboard.svg"
+            }
+    ],
+   
+    "admin": {
+        
+            "name": "Alessandro",
+            "surname": "Bianchi",
+            "operator": "Admin",
+            "img": "/img/alessandro.png"
+        },
+   
+    
+    "users": [
+        {
+            "id": 1,
+            "firstname": "Mike"
+        },
+        {
+            "id": 2,
+            "firstname": "Clifford"
+        },
+        {
+            "id": 3,
+            "firstname": "Florence"
+        },
+        {
+            "id": 4,
+            "firstname": "Genevieve"
+        },
+        {
+            "id": 5,
+            "firstname": "Helena"
+        },
+        {
+            "id": 6,
+            "firstname": "John"
+        },
+        {
+            "id": 7,
+            "firstname": "Jeremy"
+        },
+        {
+            "id": 8,
+            "firstname": "Elmer"
+        },
+        {
+            "id": 9,
+            "firstname": "Alberta"
+        },
+        {
+            "id": 10,
+            "firstname": "Lucy"
+        }
+    ],
+    "todos": [
+        {
+            "id": 1,
+            "user_id": 1,
+            "task": "Get the milk",
+            "done": true
+        },
+        {
+            "id": 2,
+            "user_id": 6,
+            "task": "This could be, or perhaps their shark was, in this moment, a hilarious cheetah",
+            "done": false
+        },
+        {
+            "id": 3,
+            "user_id": 5,
+            "task": "One cannot separate cheetahs from persistent sheeps",
+            "done": true
+        },
+        {
+            "id": 4,
+            "user_id": 4,
+            "task": "It's very tricky, if not impossible, the hippopotamus is a snail",
+            "done": true
+        },
+        {
+            "id": 5,
+            "user_id": 7,
+            "task": "A hamster is the grapefruit of a goat",
+            "done": false
+        },
+        {
+            "id": 6,
+            "user_id": 7,
+            "task": "A charming raspberry's blackberry comes with it the thought that the calm plum is a chicken",
+            "done": false
+        },
+        {
+            "id": 7,
+            "user_id": 5,
+            "task": "Few can name a receptive cat that isn't a sociable orange",
+            "done": false
+        },
+        {
+            "id": 8,
+            "user_id": 5,
+            "task": "The monkey of a lion becomes an energetic raspberry",
+            "done": true
+        },
+        {
+            "id": 9,
+            "user_id": 5,
+            "task": "A pineapple is a trustworthy fly",
+            "done": false
+        },
+        {
+            "id": 10,
+            "user_id": 4,
+            "task": "In ancient times the hilarious turtle comes from a creative chicken",
+            "done": false
+        },
+        {
+            "id": 11,
+            "user_id": 5,
+            "task": "A sociable tiger without plums is truly a snake of elated figs",
+            "done": false
+        },
+        {
+            "id": 12,
+            "user_id": 8,
+            "task": "A polite frog's hamster comes with it the thought that the generous lime is a grapes",
+            "done": true
+        },
+        {
+            "id": 13,
+            "user_id": 6,
+            "task": "To be more specific, those watermelons are nothing more than apricots",
+            "done": true
+        },
+        {
+            "id": 14,
+            "user_id": 5,
+            "task": "Wispering: \"In ancient times the chimpanzee of a hamster becomes a philosophical tangerine.",
+            "done": false
+        },
+        {
+            "id": 15,
+            "user_id": 6,
+            "task": "A lime of the snail is assumed to be a smiling panda",
+            "done": false
+        },
+        {
+            "id": 16,
+            "user_id": 6,
+            "task": "Authors often misinterpret the giraffe as an affectionate rabbit, when in actuality it feels more like a lovely dolphin",
+            "done": false
+        },
+        {
+            "id": 17,
+            "user_id": 6,
+            "task": "Shouting with happiness, some posit the hilarious pomegranate to be less than helpful",
+            "done": true
+        },
+        {
+            "id": 18,
+            "user_id": 4,
+            "task": "In recent years, the lucky cow reveals itself as a righteous tangerine to those who look",
+            "done": true
+        },
+        {
+            "id": 19,
+            "user_id": 6,
+            "task": "The dog of a dolphin becomes a detailed blueberry",
+            "done": false
+        },
+        {
+            "id": 20,
+            "user_id": 4,
+            "task": "In her own words: \"Credible flies show us how watermelons can be goats.",
+            "done": false
+        },
+        {
+            "id": 21,
+            "user_id": 8,
+            "task": "However, their pig was, in this moment, an enchanting horse",
+            "done": false
+        },
+        {
+            "id": 22,
+            "user_id": 6,
+            "task": "Of course, a powerful shark without lemons is truly a tiger of determined figs",
+            "done": false
+        },
+        {
+            "id": 23,
+            "user_id": 4,
+            "task": "However, some courageous prunes are thought of simply as kittens",
+            "done": true
+        },
+        {
+            "id": 24,
+            "user_id": 2,
+            "task": "A prune is a strawberry's squirrel",
+            "done": false
+        },
+        {
+            "id": 25,
+            "user_id": 2,
+            "task": "As far as he is concerned, a hamster is a grape's grape",
+            "done": true
+        },
+        {
+            "id": 26,
+            "user_id": 5,
+            "task": "A snail of the strawberry is assumed to be a righteous tiger",
+            "done": false
+        },
+        {
+            "id": 27,
+            "user_id": 5,
+            "task": "Though we assume the latter, those flies are nothing more than crocodiles",
+            "done": false
+        },
+        {
+            "id": 28,
+            "user_id": 7,
+            "task": "Framed in a different way, the nectarine is a snake",
+            "done": false
+        },
+        {
+            "id": 29,
+            "user_id": 3,
+            "task": "She said: \"Those cats are nothing more than dogs.",
+            "done": false
+        },
+        {
+            "id": 30,
+            "user_id": 4,
+            "task": "A panda sees a snake as a sincere kumquat",
+            "done": false
+        },
+        {
+            "id": 31,
+            "user_id": 2,
+            "task": "A hippopotamus is a hippopotamus from the right perspective",
+            "done": false
+        },
+        {
+            "id": 32,
+            "user_id": 5,
+            "task": "A plum can hardly be considered an encouraging giraffe without also being a hippopotamus",
+            "done": false
+        },
+        {
+            "id": 33,
+            "user_id": 6,
+            "task": "Authors often misinterpret the hamster as a vigorous strawberry, when in actuality it feels more like a conscientious octopus",
+            "done": false
+        },
+        {
+            "id": 34,
+            "user_id": 4,
+            "task": "This could be, or perhaps a bear is the dog of a fly",
+            "done": false
+        },
+        {
+            "id": 35,
+            "user_id": 6,
+            "task": "He said: \"A spider is the elephant of a turtle.",
+            "done": true
+        },
+        {
+            "id": 36,
+            "user_id": 2,
+            "task": "A scorpion can hardly be considered an efficient scorpion without also being a lion",
+            "done": true
+        },
+        {
+            "id": 37,
+            "user_id": 5,
+            "task": "Extending this logic, a sensitive bird without eagles is truly a frog of faithful seals",
+            "done": true
+        },
+        {
+            "id": 38,
+            "user_id": 5,
+            "task": "As far as he is concerned, a blueberry can hardly be considered a rhetorical melon without also being an ant",
+            "done": false
+        },
+        {
+            "id": 39,
+            "user_id": 6,
+            "task": "The zeitgeist contends that some jolly snails are thought of simply as apples",
+            "done": false
+        },
+        {
+            "id": 40,
+            "user_id": 3,
+            "task": "A blueberry is a happy kitten",
+            "done": true
+        },
+        {
+            "id": 41,
+            "user_id": 5,
+            "task": "Yelling: \"The reliable giraffe comes from an adaptable goat.",
+            "done": false
+        },
+        {
+            "id": 42,
+            "user_id": 7,
+            "task": "One cannot separate snails from alert spiders",
+            "done": false
+        },
+        {
+            "id": 43,
+            "user_id": 9,
+            "task": "A melon can hardly be considered a warm giraffe without also being a goat",
+            "done": false
+        },
+        {
+            "id": 44,
+            "user_id": 6,
+            "task": "As far as we can estimate, a dynamic fish without snakes is truly a monkey of reserved ducks",
+            "done": false
+        },
+        {
+            "id": 45,
+            "user_id": 6,
+            "task": "We can assume that any instance of a prune can be construed as an eminent bird",
+            "done": false
+        },
+        {
+            "id": 46,
+            "user_id": 6,
+            "task": "Unfortunately, that is wrong; on the contrary, the discreet wolf comes from a shrewd scorpion",
+            "done": false
+        },
+        {
+            "id": 47,
+            "user_id": 5,
+            "task": "As far as he is concerned, a dolphin is a communicative lion",
+            "done": false
+        },
+        {
+            "id": 48,
+            "user_id": 6,
+            "task": "A rabbit sees a tiger as a diplomatic pig",
+            "done": false
+        },
+        {
+            "id": 49,
+            "user_id": 10,
+            "task": "Backup the MacBook",
+            "done": false
+        },
+        {
+            "id": 50,
+            "user_id": 9,
+            "task": "Write the damn resolver!",
+            "done": false
+        }
+    ]
+}

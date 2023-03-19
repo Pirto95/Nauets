@@ -1,0 +1,155 @@
+.App {
+  text-align: center;
+  background-color: #E6EBEF;
+  min-height: 100vh;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.navbar-home{
+  height: 10vh;
+}
+
+.operator{
+  font-size: 11px;
+  font-weight: normal;
+  color: #2A3948;
+  
+}
+
+.name-operator{
+  font-size: 12px;
+  font-weight: bold;
+  color: #2A3948
+}
+
+.slidebar{
+  min-height: 90vh;
+  background-color: #2A3948;
+}
+
+.container-logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  min-height: 100%;
+}
+
+.logo{
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%
+}
+
+.slidebar-list{
+  height: 10vh;
+  width: 100%;
+  align-items: center;
+  display: flex;
+}
+
+.active-item {
+  opacity: 1;
+  border-left: 5px solid red;
+  background-color: #00000020;
+  padding-left: 1rem;
+}
+
+.inactive-item {
+  opacity: 0.6;
+  border-left: 5px solid transparent;
+  background-color: transparent;
+  padding-left: 1rem;
+}
+
+.slidebar-list-p{
+  font-size : 14px
+}
+
+.table-list-operator{
+  border-radius: 5px;
+  background-color: white;
+  overflow: hidden;
+  --bs-table-striped-bg : #E6EBEF !important;
+}
+
+.head-table{
+  background-color: #BE0010;
+  color: white;
+}
+
+.row-table{
+  height: 42px;
+}
+
+.row-table td:nth-child(1) {  
+  width: 60%;
+  text-align: left;
+  font-size: 14px;
+}
+.row-table td:nth-child(2) {  
+  width: 20%;
+  text-align: left;
+  margin-left: 5%;
+  font-size: 15xp;
+}
+.row-table td:nth-child(3) button{  
+ background-color: #2A3948;
+ border:none;
+ font-size: 12px;
+}
+
+.number-item{
+  width: 60px;
+}
+
+.utility-section{
+  position: fixed;
+  bottom: 0;
+  margin-top: 30px;
+  padding: 15px;
+  padding-bottom: 0;
+  width: 80%;
+  background-color: #E6EBEF;
+}
+
+.form-new-activity{
+  background-color: #CFD8E0;
+  border-radius: 5px;
+  margin-bottom: 80px;
+}
